@@ -1,0 +1,5 @@
+cat (displays the content of a file)
+touch (create a file)
+ls (list directory)
+cd (change directory)
+cd .. (go to parent directory)
